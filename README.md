@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/patelprince1711/DAA-Assignment/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/patelprince1711/DAA-Assignment/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/patelprince1711/DAA-Assignment/tree/master/0704-binary-search) |
+| [0912-sort-an-array](https://github.com/patelprince1711/DAA-Assignment/tree/master/0912-sort-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/patelprince1711/DAA-Assignment/tree/master/0053-maximum-subarray) |
+| [0912-sort-an-array](https://github.com/patelprince1711/DAA-Assignment/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -37,4 +39,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/patelprince1711/DAA-Assignment/tree/master/0088-merge-sorted-array) |
+| [0912-sort-an-array](https://github.com/patelprince1711/DAA-Assignment/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/patelprince1711/DAA-Assignment/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/patelprince1711/DAA-Assignment/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/patelprince1711/DAA-Assignment/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/patelprince1711/DAA-Assignment/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/patelprince1711/DAA-Assignment/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
